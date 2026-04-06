@@ -270,10 +270,8 @@ To implement additional features:
 - `lib/`: Utility functions and configurations
 - `api/`: API routes for backend logic
 
-## Contributing
+## 👨‍💻 Author
 
-[Add contribution guidelines]
-
-## License
-
-[Add license]
+**Kanan Sharma**  
+- Computer Science Student  
+- Interested in AI, Full-Stack Development, and building real-world products
